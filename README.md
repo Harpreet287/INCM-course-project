@@ -1,4 +1,4 @@
-# Neural Dynamics & Perceptual Discrimination in RNNs
+# BioPlaN: Biologically Plausible Decision Making in RNNs
 
 This repository contains a suite of Jupyter notebooks for training, analyzing, and perturbing Recurrent Neural Networks (RNNs) on a 2-Alternative Forced Choice (2AFC) Perceptual Discrimination task. The projects explores biological constraints (Dale's Law), novel training objectives (Adaptive Contrastive Gating), and causal mechanisms (Lesioning/Clamping).
 
